@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "悲しくなる前に",
+  "base_artist": "indigo la End",
+  "createdAt": "2026-02-20T13:45:52.832217Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "悲しくなる前に",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/01_悲しくなる前に_indigo_la_End.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "悲しくなる前に",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/pl_01_悲しくなる前に_indigo_la_End.txt"
+    }
+  ]
+}
